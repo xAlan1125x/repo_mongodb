@@ -1,0 +1,28 @@
+# Node
+node_modules/
+npm-debug.log
+pnpm-lock.yaml
+package-lock.json
+yarn.lock
+
+# Build output
+/dist
+/frontend/dist
+
+# Env
+.env
+
+# Logs
+logs/
+*.log
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# VSCode
+.vscode/
+
+# Angular cache
+.frontend/.angular
+.angular
